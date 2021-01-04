@@ -7,7 +7,7 @@ def hi_there():
 
     print('Hi Git')
 
-print('Hi i´m another dev')
+print('pequeño cambio en python')
 
 def hi_there():
     print("hi")
