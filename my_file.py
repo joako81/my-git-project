@@ -7,7 +7,7 @@ def hi_there():
 
     print('Hi Git')
 
-print('print('mi terrible problema resolución conflictos fusión python')')
+print(mi terrible problema resolución conflictos fusión python')
 
 def hi_there():
     print("hi")
