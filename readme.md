@@ -1,5 +1,7 @@
 # My Git Project
 
+mi terrible problema resolución conflictos fusión
+
 >My code for the git project
 
 ## I´m in the feature branch
